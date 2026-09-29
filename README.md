@@ -5,7 +5,7 @@
 
 ## Contenido
 
-1. [Ruta del syllabus y resultados](#ruta)
+1. [Introduccion](#ruta)
 2. [Unidad 1. CI/CD y control de versiones](#unidad-1)
 3. [Unidad 2. Automatización de pipelines](#unidad-2)
 4. [Unidad 3. Despliegue en la nube](#unidad-3)
@@ -15,33 +15,12 @@
 8. [Glosario y fuentes](#fuentes)
 
 <a id="ruta"></a>
-## 1. Ruta del syllabus y resultados
 
-| Unidad | Temas del syllabus | Acompañamiento directo | Trabajo independiente | Total | Resultado principal |
-|---|---|---:|---:|---:|---|
-| 1. Fundamentos de CI/CD y control de versiones | CI, CD, beneficios, Git, repositorios remotos, flujo básico | 16 h | 32 h | 48 h | Analizar principios y componentes |
-| 2. Automatización de pipelines | Pipeline, GitHub Actions/GitLab CI/Jenkins, configuración, pruebas, variables, errores | 16 h | 32 h | 48 h | Configurar pipelines |
-| 3. Despliegue de aplicaciones en la nube | Infraestructura cloud, servicios, aplicaciones web, automatización, seguridad, monitoreo | 32 h | 64 h | 96 h | Desplegar aplicaciones |
-| **Suma de unidades** | | **64 h** | **128 h** | **192 h** | |
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xXde5PzV8X4?si=77tus96SUd-TiwXS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Nota de consistencia:** los datos generales indican 192 horas y 64 + 128 = 192. La última fila de la tabla original indica 196: es una discrepancia aritmética del syllabus. También repite el número 5 en los dos últimos tópicos de la unidad 3. Aquí se emplea la suma verificable de 192 horas.
 
-~~~mermaid
-pie showData
-    title Distribución de 192 horas por unidad
-    "Unidad 1: fundamentos" : 48
-    "Unidad 2: pipelines" : 48
-    "Unidad 3: nube" : 96
-~~~
 
-~~~mermaid
-pie showData
-    title Modalidad de trabajo: 192 horas
-    "Acompañamiento directo" : 64
-    "Trabajo independiente" : 128
-~~~
 
-**Competencias observables.** Al terminar, el estudiante puede: (1) explicar qué valida cada puerta de calidad; (2) demostrar que un cambio en una rama dispara pruebas sin acceder a credenciales de producción; (3) desplegar desde la rama autorizada; (4) identificar commit, ejecución y revisión; (5) localizar una falla y recuperar el servicio. Los resultados proceden del syllabus; las evidencias propuestas son una operacionalización didáctica.
 
 <a id="unidad-1"></a>
 ## 2. Unidad 1. CI/CD y control de versiones
