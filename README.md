@@ -16,10 +16,7 @@
 
 <a id="ruta"></a>
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/xXde5PzV8X4"
-  title="Explicación del pipeline"
-  allowfullscreen></iframe>
+[![Ver video: CI/CD con GitHub Actions](https://img.youtube.com/vi/xXde5PzV8X4/hqdefault.jpg)](https://www.youtube.com/watch?v=xXde5PzV8X4)
 
 
 
