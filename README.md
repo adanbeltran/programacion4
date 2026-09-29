@@ -2,6 +2,9 @@
 
 Tres unidades conectadas por un ejemplo común: una API `demo-ci-cd`, alojada en GitHub, verificada con GitHub Actions y desplegada en Cloud Run. Los fragmentos de YAML son ejemplos explicativos; su ejecución requiere que existan la aplicación, las pruebas, un `Dockerfile` y la configuración de identidad y permisos.
 
+[![Ver video: CI/CD con GitHub Actions](https://img.youtube.com/vi/xXde5PzV8X4/hqdefault.jpg)](https://www.youtube.com/watch?v=xXde5PzV8X4)
+
+
 ## Contenido
 
 1. [Unidad 1. Fundamentos de CI/CD y control de versiones](#unidad-1)
