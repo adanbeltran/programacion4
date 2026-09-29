@@ -1,8 +1,5 @@
 # Despliegues continuos: fundamentos, pipelines y nube
 
-**Material de estudio y práctica para Ingeniería de Software · Semestre 7**  
-**Basado en:** syllabus institucional “Despliegues Continuos” (archivo proporcionado, actualización declarada: 17/12/2025).  
-**Revisión técnica:** 28/09/2026. **Convención:** los comandos cloud son una guía parametrizada; requieren una cuenta, un proyecto con facturación habilitada y permisos de administración inicial. Las cifras de los ejemplos de métricas, cuando aparecen, son didácticas y no describen resultados reales.
 
 > **Objetivo del curso.** Implementar un flujo de integración y entrega de una aplicación: desde un cambio versionado hasta una revisión operativa en la nube, con pruebas, trazabilidad, control de acceso y mecanismos de observación y recuperación.
 
